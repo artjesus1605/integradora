@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+}
+
+.energia-limpa{
+  background-image: url(../../img/banner_ods/ODS-7.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70%;
+}
+
+.texto-ods{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.h3-ods{
+  padding-left: 5px;
+}
+
